@@ -19,7 +19,6 @@
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<meta charset="utf-8" />
 	<meta name="author" content="Mangaliso Mtembu">
-	<!-- Replace Name Surname with your name and surname -->
 </head>
 <body>
 	<div class="container">
